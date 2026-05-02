@@ -21,11 +21,14 @@ Reach me at [`klazomenai.dev@proton.me`](mailto:klazomenai.dev@proton.me).
 
 ## The Stewardship Promise
 
-Klazomenai-led projects are licensed AGPL-3.0-or-later (or, where the use case
-is a permissively-licensed library, MIT). The current open-source release stays
-open, in perpetuity. Future development may move between OSI-approved licences
-but never to proprietary or source-available terms. Forks are honoured.
-Decisions are visible.
+Klazomenai-led work ships under right-fit OSI-approved licences:
+**copyleft** (AGPL-3.0-or-later for user-facing applications, GPL-3.0 for
+infrastructure and tooling) and **MIT** for embeddable libraries and gateway
+components. Forks of upstream projects carry their upstream's licence
+unchanged — Klazomenai has no authority to relicense them. The current
+open-source release stays open in perpetuity. Future relicensing is
+OSI-bounded — never proprietary, never source-available. Community forks
+are honoured. Material decisions are made visible.
 
 Read the full commitment in
 [chart-house/STEWARDSHIP.md](https://github.com/Klazomenai/chart-house/blob/main/STEWARDSHIP.md).
