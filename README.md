@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Klazomenai — fair winds and copyleft tides" width="100%">
+  <img src="assets/banner.svg" alt="Klazomenai — fair winds and copyleft tides">
 </p>
 
 # Klazomenai
