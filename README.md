@@ -44,7 +44,7 @@ own infrastructure.
 |---|---|---|---|
 | [bridge](https://github.com/Klazomenai/bridge) | Matrix bot + AI crew orchestrator | Go | AGPL-3.0-or-later |
 | [deck-chat](https://github.com/Klazomenai/deck-chat) | Android voice client | Kotlin | AGPL-3.0-or-later |
-| [chart-house](https://github.com/Klazomenai/chart-house) | Voyage planner — fleet landing page | Zola, SCSS | AGPL-3.0-or-later |
+| [chart-house](https://github.com/Klazomenai/chart-house) | [Voyage planner](https://klazomenai.github.io/chart-house/) — fleet landing page | Zola, SCSS | AGPL-3.0-or-later |
 
 ### 📜 The Letter of Marque — Identity and on-chain authority
 
